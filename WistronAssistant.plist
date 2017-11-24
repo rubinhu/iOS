@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
@@ -12,7 +12,7 @@
 						<string>software-package</string>
 						<key>url</key>
 						<!-- ipa包URL（必填） -->
-						<string>https://github.com/rubinhu/iOS/blob/master/WistronAssistant.ipa</string>
+						<string>http://zhongshanjob.wistron.com/WistronAssistant/app/WistronAssistant_v1.0.2.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -39,7 +39,7 @@
 					<!--BundleID（必填）-->
 					<string>com.wistron.wzsdev.wiassistant</string>
 					<key>bundle-version</key>
-					<string>1.0.1</string>
+					<string>1.0.2</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
