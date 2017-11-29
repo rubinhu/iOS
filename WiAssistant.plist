@@ -12,7 +12,7 @@
 						<string>software-package</string>
 						<key>url</key>
 						<!-- ipa包URL（必填） -->
-						<string>http://iwtsdev.wistron.com/WiAssistant/install/WiAssistant.ipa</string>
+						<string>https://iwtsdev.wistron.com/WiAssistant/install/WiAssistant.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -21,7 +21,7 @@
 						<false/>
 						<key>url</key>
 						<!--下载时大图（非必填）-->
-						<string>http://iwtsdev.wistron.com/WiAssistant/install/icon.png</string>
+						<string>https://iwtsdev.wistron.com/WiAssistant/install/icon.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -30,7 +30,7 @@
 						<false/>
 						<key>url</key>
 						<!--下载时小图（非必填）-->
-						<string>http://iwtsdev.wistron.com/WiAssistant/install/icon.png</string>
+						<string>https://iwtsdev.wistron.com/WiAssistant/install/icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
